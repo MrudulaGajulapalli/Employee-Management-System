@@ -27,8 +27,8 @@ React,Vite,Axios
 
 Features
 
-    User authentication and authorization to ensure secure access.
-    CRUD (Create, Read, Update, Delete) operations for managing employee data.
-    Department and role management for organizing employees within the organization.
-    A responsive and intuitive user interface for ease of use.
-    Real-time updates and notifications to keep users informed of changes.
+User authentication and authorization to ensure secure access.
+CRUD (Create, Read, Update, Delete) operations for managing employee data.
+Department and role management for organizing employees within the organization.
+A responsive and intuitive user interface for ease of use.
+Real-time updates and notifications to keep users informed of changes.
